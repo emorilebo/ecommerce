@@ -21,7 +21,7 @@ function Header() {
                 <div className="mt-2 flex items-center flex-grow sm:flex-grow-0">
                     <Image 
                         onClick={()=> router.push('/')}
-                        src= "/grasper.png"//https://links.papareact.com/f90
+                        src= "/grasper.png"
                         width={160}
                         height={48}
                         objectFit="contain"
